@@ -80,7 +80,7 @@ p {
 }
 
 #img2 {
-    display: flex;
+    display: none;
 }
 
 #price {
